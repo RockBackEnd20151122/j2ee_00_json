@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="ExMvc">
+        <wb-resource deploy-path="/" source-path="/View" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="ExMvc"/>
+        <property name="java-output-path" value="/ExMvc/build/classes"/>
+    </wb-module>
+</project-modules>
